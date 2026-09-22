@@ -112,5 +112,4 @@ Through this project, I gained practical experience in:
 
 **Pratima C Pattar**
 
-Graduate ECE | Embedded Systems & IoT
 
